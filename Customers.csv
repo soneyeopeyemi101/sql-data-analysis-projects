@@ -1,0 +1,13 @@
+CustomerID,CustomerName,City,Email,SignupDate,LoyaltyTier
+CUST1,Alice,Lagos,alice@example.com,2023-05-11,Gold
+CUST2,Bob,Abuja,bob@example.com ,2023-06-02,Silver
+CUST3,Charles,PORT HARCOURT,charles@example.com,2023-04-19,Gold
+CUST4,Dami,Ibadan,dami@example.com,2023-07-23,Bronze
+CUST5, Efe,lagos,efe@example.com,2023-01-30,Silver
+CUST6,Fatima,Kano,fatima@example.com,2023-09-14,Gold
+CUST7,Grace,Enugu,grace@example.com,2023-02-08,
+CUST8,Hannah,Lagos,hannah@example.com,2023-03-17,Bronze
+CUST9,Isaac,Abuja,isaac@example.com,2023-08-25,Silver
+CUST10,John,Ibadan,john@example.com,2023-05-30,Gold
+CUST11,Kemi,Lagos,kemi@example.com,2024-01-15,Silver
+CUST12,Lawrence,Abuja,lawrence@example.com,2024-02-02,Bronze

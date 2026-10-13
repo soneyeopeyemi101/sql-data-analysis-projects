@@ -1,0 +1,13 @@
+OrderID,CustomerID,CustomerName,Product,Category,Quantity,Price,OrderDate
+201,CUST11,Kemi,Router,Electronics,1,9000,2024-02-20
+202,CUST12,Lawrence,Desk Lamp,Home,2,3500,2024-02-21
+203,CUST1,Alice,Laptop,Electronics,1,20000,2024-02-22
+204,CUST3,Charles,Office Chair,Home,1,25000,2024-02-23
+205,CUST5,Efe,Tablet,Electronics,2,12000,2024-02-24
+206,CUST13,Mary,Blender,Home,1,8000,2024-02-25
+207,CUST6,Fatima,Charger,Accessories,3,3000,2024-02-26
+208,CUST14,Nonso,Bookshelf,Home,1,15000,2024-02-27
+209,CUST2,Bob,Mouse,Accessories,1,5000,2024-02-28
+210,CUST15,Ola,Standing Fan,Home,1,11000,2024-02-29
+211,CUST9,Isaac,Webcam,Electronics,2,6000,2024-03-01
+212,CUST11,Kemi,USB Cable,Accessories,4,1000,2024-03-02
